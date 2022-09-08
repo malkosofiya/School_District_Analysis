@@ -20,7 +20,7 @@ It can be easily spotted that Math Passing Percentage, Reading	Passing Percentag
 
 ![Screen Shot 2022-09-07 at 10 15 45 PM](https://user-images.githubusercontent.com/110862261/189026188-569d7056-77ce-486c-b5d2-7670d9b0e0f6.png)
 
-### Effects of replacing the grade 9 scores for Thomas High School:
+### Effects of Removing 9th Graders from Thomas High School:
 
 * No changes made to the School Spending Summary.
 * No changes made to the School Size Summary.
