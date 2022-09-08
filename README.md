@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-## Overview of the school district analysis
+## Overview of the School District Analysis
 
 The purpose of this analysis is to create a high-level snapshot of the school district's key metric. The main points of focus were: Total School Budget, Budget Per Student,	Average Math Score,	Average Reading Score, Math	Passing Percentage, Reading	Passing Percentage, Overall Passing Percentage. Additionally, after discovering some data inconsistencies the data from 9th graders at Thomas High School was removed while the remaining information was kept the same. 
 
